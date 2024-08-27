@@ -62,7 +62,6 @@ a{
 #video{
     display:flex;
     justify-content: center;
-    background-color: #CE9931;
 }
 .forme{
     display:grid;
